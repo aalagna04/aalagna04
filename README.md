@@ -1,3 +1,2 @@
 #aalagna04
-readme for github profile
-Practice test
+Welcome to my github! Don't hesitate to contribute or follow my progess.
