@@ -1,4 +1,4 @@
-# Welcome to my github! Don't hesitate to contribute or follow my progess.
+# Welcome to my github! Feel free to contribute or follow my progess.
 
 
 1. Feel free to visit my website: [aalagna04.github.io](https://aalagna04.github.io/).
